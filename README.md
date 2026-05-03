@@ -42,3 +42,11 @@ As informações sobre os participantes das gravações estão organizadas no ar
 
 ```text
 metadata/speakers.csv
+```
+
+# terradoc-enw: Repositório de Áudios Enawene Nawe
+
+**Versão atual:** v1.0.0  
+**DOI:** 10.5281/zenodo.10.5281/zenodo. 
+**Projeto:** Plataformas Indígenas
+
